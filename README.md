@@ -1,1 +1,1 @@
-https://ucsd-cse11-w22.github.io/assignments/pa2.html
+https://ucsd-cse11-su222.github.io/assignments/pa2.html
